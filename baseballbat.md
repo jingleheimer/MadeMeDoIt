@@ -1,0 +1,1 @@
+Ali in 100: bat in right hand, door knob in left.
