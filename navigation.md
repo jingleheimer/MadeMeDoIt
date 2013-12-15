@@ -2,12 +2,12 @@
 
 [Days]()
 
-   * [Day 01: Thursday](thursday01.md)
-   * [Day 02: Friday](friday02.md)
-   * [Day 03: Saturday](saturday03.md)
-   * [Day 04: Sunday](sunday04.md)
-   * [Day 05: Monday](monday05.md)
-   * [Day 06: Tuesday](tuesday06.md)
+   * [Day 01](thursday01.md)
+   * [Day 02](friday02.md)
+   * [Day 03](saturday03.md)
+   * [Day 04](sunday04.md)
+   * [Day 05](monday05.md)
+   * [Day 06](tuesday06.md)
 
 [Location](location.md)
 
