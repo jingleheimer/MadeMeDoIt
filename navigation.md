@@ -2,12 +2,12 @@
 
 [Days]()
 
-* [Day 01: Thursday](thursday01.md)
-* [Day 02: Friday](friday02.md)
-* [Day 03: Saturday](saturday03.md)
-* [Day 04: Sunday](sunday04.md)
-* [Day 05: Monday](monday05.md)
-* [Day 06: Tuesday](tuesday06.md)
+   * [Day 01: Thursday](thursday01.md)
+   * [Day 02: Friday](friday02.md)
+   * [Day 03: Saturday](saturday03.md)
+   * [Day 04: Sunday](sunday04.md)
+   * [Day 05: Monday](monday05.md)
+   * [Day 06: Tuesday](tuesday06.md)
 
 [Location](location.md)
 
@@ -15,20 +15,20 @@
 
 [Props]()
 
-* [Axe](axe.md)
-* [Baseball Bat](baseballbat.md)
-* [Cultivator](cultivator.md)
-* [Pink Flashlight](flashlight.Ali.md)
-* [Officer's Flashlight](flashlight.Officer.md)
-* [Utility Flashlight](flashlight.utility.md)
-* [Ali's Gun](gun.Ali.md)
-* [Officer's Gun](gun.Officer.md)
-* [Ali's iPhone](iPhone.Ali.md)
-* [Nick's iPhone](iPhone.Nick.md)
-* [Kitchen Knife](kitchenknife.md)
-* [Nick's Medal](medal.md)
-* [Nick's Pocketknife](pocketknife.md)
-* [Nick's Skateboard](skateboard.md)
+   * [Axe](axe.md)
+   * [Baseball Bat](baseballbat.md)
+   * [Cultivator](cultivator.md)
+   * [Pink Flashlight](flashlight.Ali.md)
+   * [Officer's Flashlight](flashlight.Officer.md)
+   * [Utility Flashlight](flashlight.utility.md)
+   * [Ali's Gun](gun.Ali.md)
+   * [Officer's Gun](gun.Officer.md)
+   * [Ali's iPhone](iPhone.Ali.md)
+   * [Nick's iPhone](iPhone.Nick.md)
+   * [Kitchen Knife](kitchenknife.md)
+   * [Nick's Medal](medal.md)
+   * [Nick's Pocketknife](pocketknife.md)
+   * [Nick's Skateboard](skateboard.md)
 
 [Scene](scene.md)
 
