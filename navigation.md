@@ -1,6 +1,6 @@
 # Your wiki name
 
-[Props](prop.md)
+[Props]()
 * [Axe](axe.md)
 * [Pink Flashlight](flashlight.Ali.md)
 * [Officer's Flashlight](flashlight.Officer.md)
