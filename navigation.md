@@ -1,6 +1,7 @@
 # MMDI Supe Notes
 
 [Days]()
+
 * [Day 01: Thursday](thursday01.md)
 * [Day 02: Friday](friday02.md)
 * [Day 03: Saturday](saturday03.md)
@@ -13,6 +14,7 @@
 [Other](other.md)
 
 [Props]()
+
 * [Axe](axe.md)
 * [Baseball Bat](baseballbat.md)
 * [Cultivator](cultivator.md)
