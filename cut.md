@@ -1,40 +1,43 @@
 # CUT SHOTS
 
-[[031N --CUT--]]
-[[031Q --CUT--]]
-[[039B --CUT--]]
-[[041C --CUT--]]
-[[052B --CUT--]]
-[[060B --CUT--]]
-[[062S --CUT--]]
-[[064K --CUT--]]
-[[072A --CUT--]]
-[[072E --CUT--]]
-[[072F --CUT--]]
-[[073D --CUT--]]
-[[074-B --CUT--]]
-[[074-I --CUT--]]
-[[074-N]]
-[[074AA --CUT--]]
-[[074BB --CUT--]]
-[[074EE --CUT--]]
-[[074GG --CUT--]]
-[[076E --CUT--]]
-[[080J --CUT--]]
-[[086A --CUT--]]
-[[086B --CUT--]]
-[[086G --CUT--]]
-[[097A --CUT--]]
-[[101A --CUT--]]
-[[103H --CUT--]]
-[[105C --CUT--]]
-[[107F --CUT--]]
-[[107G --CUT--]]
-[[109H --CUT--]]
-[[111B --CUT--]]
-[[111M --CUT--]]
-[[114J]]
-[[114L --CUT--]]
-[[121R]]
-[[122B --CUT--]]
-[[132A --CUT--]]
+* [](019B.md)
+* [](031N--CUT--.md)
+* [](031Q--CUT--.md)
+* [](039B--CUT--.md)
+* [](041C--CUT--.md)
+* [](052B--CUT--.md)
+* [](060B--CUT--.md)
+* [](062S--CUT--.md)
+* [](064G.md)
+* [](064K--CUT--.md)
+* [](072A--CUT--.md)
+* [](072E--CUT--.md)
+* [](072F--CUT--.md)
+* [](073D--CUT--.md)
+* [](074-B--CUT--.md)
+* [](074-I--CUT--.md)
+* [](074-N.md)
+* [](074AA--CUT--.md)
+* [](074BB--CUT--.md)
+* [](074EE--CUT--.md)
+* [](074GG--CUT--.md)
+* [](076E--CUT--.md)
+* [](080J--CUT--.md)
+* [](086A--CUT--.md) (Ali's exit from Nick's bathroom.)
+* [](086B--CUT--.md) (On Jason as Ali enters, passing in front of camera.)
+* [](086G--CUT--.md)
+* [](097A--CUT--.md)
+* [](101A--CUT--.md)
+* [](103H--CUT--.md)
+* [](105C--CUT--.md)
+* [](107F--CUT--.md)
+* [](107G--CUT--.md)
+* [](109H--CUT--.md)
+* [](111B--CUT--.md)
+* [](111M--CUT--.md)
+* [](114J.md)
+* [](114L--CUT--.md)
+* [](121D.md)
+* [](121R.md)
+* [](122B--CUT--.md)
+* [](132A--CUT--.md)

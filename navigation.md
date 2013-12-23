@@ -13,6 +13,10 @@
 
 [Other](other.md)
 
+  * [Unshot Scenes](unshot.md)
+  * [Cut Shots](cut.md)
+  * [Shots with VFX](vfx.md)
+
 [Props]()
 
    * [Axe](axe.md)
@@ -31,6 +35,4 @@
    * [Nick's Skateboard](skateboard.md)
 
 [Scene](scene.md)
-
-[VFX](vfx.md)
 
