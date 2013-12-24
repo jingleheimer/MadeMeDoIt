@@ -1,4 +1,4 @@
-* [](080-INT.NicksRoom.md)
+* [080 - INT. NICK'S ROOM](080-INT.NicksRoom.md)
 * [](127-INT.AbandonedGreenhouse-FLASHBACK.md)
 * [](128-EXT.Doorway--FLASHBACK--.md)
 * [](129-INT.NicksRoom--FLASHBACK--.md)
