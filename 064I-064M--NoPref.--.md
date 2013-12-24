@@ -1,7 +1,7 @@
-# CU Thomas gets hit, falls into pool, camera in front of him, tilt up to reveal Nick, helps Ali out of water
+# 064I: CU Thomas gets hit, falls into pool, camera in front of him, tilt up to reveal Nick, helps Ali out of water
 ## Shoulder-Mount Static: Card A033
 
-# M Thomas gets hit, falls into pool, camera in front of him, tilt up to reveal Nick, helps Ali out of water
+# 064M: M Thomas gets hit, falls into pool, camera in front of him, tilt up to reveal Nick, helps Ali out of water
 ## Shoulder-Mount Static: Card B090
 
 ### Lav on Nick

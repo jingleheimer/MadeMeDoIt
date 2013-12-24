@@ -1,4 +1,4 @@
-* [](037-INT.Kitchen.md)
+* [037 - INT. KITCHEN](037-INT.Kitchen.md)
 * [](038-INT.FamilyRoom.md)
 * [](042-INT.FamilyRoom.md)
 * [](062-INT.Kitchen.md)

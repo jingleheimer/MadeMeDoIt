@@ -27,8 +27,8 @@
 * [](031P--Take03--.md)
 * [](031R--Take02--.md)
 * [](059B--Take03--.md)
-* [](059A--Take02--.md)
-* [](050A--Take02--.md)
+* [059A](059A--Take02--.md) [Take 2.]
+* [050A](050A--Take02--.md) [Take 2.]
 * [](127A--FoundFootage--.md)
 * [](127B--FoundFootage--.md)
 * [](127C.md)

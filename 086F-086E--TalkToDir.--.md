@@ -1,7 +1,7 @@
-# MCU - Jason leaning against bed, moves in to CU
+# 086F: MCU - Jason leaning against bed, moves in to CU
 ## Shoulder-Mounted Pan: Card A014
 
-# M - Jason leaning against bed
+# 086E: M - Jason leaning against bed
 ## Shoulder-Mounted Static: Card B041/43
 
 ### Lavs on Jason and Ali, boom from above.
