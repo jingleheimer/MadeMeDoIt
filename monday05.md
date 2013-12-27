@@ -1,42 +1,42 @@
-* [](062N--Take03--.md)
-* [](107B.md)
+* [062N](062N--Take03--.md) [Take 3.]
+* [107B](107B.md) [No take preference.]
 * [107C](107C.md) [No take preference.]
 * [107D](107D.md) [No take preference.]
 * [107E](107E.md) [No take preference.]
-* [](108A--Take04--.md)
-* [](108B--Take03--.md)
-* [](108C--Take04--.md)
-* [](108E--Take04--.md)
-* [](108D--Take01--.md)
-* [](108G--Take01--.md)
-* [](108J--Take03--.md)
-* [](108H--NoPref.--.md)
-* [](108I--NoPref.--.md)
+* [108A](108A--Take04--.md) [Take 4.]
+* [108B](108B--Take03--.md) [Take 3.]
+* [108C](108C--Take04--.md) [Take 4.]
+* [108E](108E--Take04--.md) [Take 4.]
+* [108D](108D--Take01--.md) [Take 1.]
+* [108G](108G--Take01--.md) [Take 1.]
+* [108J](108J--Take03--.md) [Take 3.]
+* [108H](108H--NoPref.--.md) [No take preference.]
+* [108I](108I--NoPref.--.md) [No take preference.]
 * [109B/109A](109B-109A--NoPref.--.md) [No take preference.]
-* [](109C--NoPref.--.md)
-* [](109D--NoPref.--.md)
-* [](109F--Take03--.md)
-* [](109E--NoPref.--.md)
-* [](109I--NoPref.--.md)
-* [](109G--NoPref.--.md)
-* [](111H--NoPref.--.md)
-* [](111I--Take06--.md)
+* [109C](109C--NoPref.--.md) [No take preference.]
+* [109D](109D--NoPref.--.md) [No take preference.]
+* [109F](109F--Take03--.md) [Take 3.]
+* [109E](109E--NoPref.--.md) [No take preference.]
+* [109I](109I--NoPref.--.md) [No take preference.]
+* [109G](109G--NoPref.--.md) [No take preference.]
+* [111H](111H--NoPref.--.md) [No take preference.]
+* [111I](111I--Take06--.md) [Take 6.]
 * [046A](046A--Take01--.md) [Take 1.]
 * [046B](046B--Take01--.md) [Take 1.]
 * [046C](046C--Take01--.md) [Take 1.]
-* [](028A.md)
-* [](109J-111C--Take03--.md)
-* [](111D--NoPref.--.md)
-* [](111D-1--Take01--.md)
+* [028A](028A.md) [No take preference.]
+* [109J (same as 111C)](109J-111C--Take03--.md) [Take 3.]
+* [111D](111D--NoPref.--.md) [No take preference.]
+* [111D-1](111D-1--Take01--.md) [Take 1.]
 * [111E](111E.md) [No take preference.]
 * [109K / 109L(same as 111F)](109K--109L-111F--.md) [No take preference.]
 * [111A/111G](111A-111G.md) [No take preference.]
-* [](111J--Take01--.md)
-* [](111K--NoPref.--.md)
-* [](111L--NoPref.--.md)
+* [111J](111J--Take01--.md) [Take 1.]
+* [111K](111K--NoPref.--.md) [No take preference.]
+* [111L](111L--NoPref.--.md) [No take preference.]
 * [124A](124A.md) [No take preference.]
-* [](122A--NoPref.--.md)
-* [](122D--NoPref.--.md)
+* [122A](122A--NoPref.--.md) [No take preference.]
+* [122D](122D--NoPref.--.md) [No take preference.]
 * [132B](132B.md) [No take preference.]
 * [124B](124B.md) [No take preference.]
 * [103B](103B.md) [Take 1.]
@@ -44,5 +44,5 @@
 * [123A](123A.md) [No take preference.]
 * [122C](122C.md) [No take preference.]
 * [132C](132C.md) [No take information.]
-* [](077A--NoPref.--.md)
-* [](077B--NoPref.--.md)
+* [077A](077A--NoPref.--.md) [No take preference.]
+* [077B](077B--NoPref.--.md) [No take preference.]

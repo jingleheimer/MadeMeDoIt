@@ -1,43 +1,43 @@
 # CUT SHOTS
 
-* [](019B.md)
-* [](031N--CUT--.md)
-* [](031Q--CUT--.md)
-* [](039B--CUT--.md)
-* [](041C--CUT--.md)
-* [](052B--CUT--.md)
-* [](060B--CUT--.md)
-* [](062S--CUT--.md)
-* [](064G.md)
-* [](064K--CUT--.md)
-* [](072A--CUT--.md)
-* [](072E--CUT--.md)
-* [](072F--CUT--.md)
-* [](073D--CUT--.md)
-* [](074-B--CUT--.md)
-* [](074-I--CUT--.md)
-* [](074-N.md)
-* [](074AA--CUT--.md)
-* [](074BB--CUT--.md)
-* [](074EE--CUT--.md)
-* [](074GG--CUT--.md)
-* [](076E--CUT--.md)
-* [](080J--CUT--.md)
-* [](086A--CUT--.md) (Ali's exit from Nick's bathroom.)
-* [](086B--CUT--.md) (On Jason as Ali enters, passing in front of camera.)
-* [](086G--CUT--.md)
-* [](097A--CUT--.md)
-* [](101A--CUT--.md)
-* [](103H--CUT--.md)
-* [](105C--CUT--.md)
-* [](107F--CUT--.md)
-* [](107G--CUT--.md)
-* [](109H--CUT--.md)
-* [](111B--CUT--.md)
-* [](111M--CUT--.md)
-* [](114J.md)
-* [](114L--CUT--.md)
-* [](121D.md)
-* [](121R.md)
-* [](122B--CUT--.md)
-* [](132A--CUT--.md)
+* [019B](019B.md) [--CUT--]
+* [031N](031N--CUT--.md) [--CUT--]
+* [031Q](031Q--CUT--.md) [--CUT--]
+* [039B](039B--CUT--.md) [--CUT--]
+* [041C](041C--CUT--.md) [--CUT--]
+* [052B](052B--CUT--.md) [--CUT--]
+* [060B](060B--CUT--.md) [--CUT--]
+* [062S](062S--CUT--.md) [--CUT--]
+* [064G](064G.md) [--CUT--]
+* [064K](064K--CUT--.md) [--CUT--]
+* [072A](072A--CUT--.md) [--CUT--]
+* [072E](072E--CUT--.md) [--CUT--]
+* [072F](072F--CUT--.md) [--CUT--]
+* [073D](073D--CUT--.md) [--CUT--]
+* [074B](074-B--CUT--.md) [--CUT--]
+* [074I](074-I--CUT--.md) [--CUT--]
+* [074N](074-N.md) [--CUT--]
+* [074AA](074AA--CUT--.md) [--CUT--]
+* [074BB](074BB--CUT--.md) [--CUT--]
+* [074EE](074EE--CUT--.md) [--CUT--]
+* [074GG](074GG--CUT--.md) [--CUT--]
+* [076E](076E--CUT--.md) [--CUT--]
+* [080J](080J--CUT--.md) [--CUT--]
+* [086A](086A--CUT--.md) (Ali's exit from Nick's bathroom.) [--CUT--]
+* [086B](086B--CUT--.md) (On Jason as Ali enters, passing in front of camera.) [--CUT--]
+* [086G](086G--CUT--.md) [--CUT--]
+* [097A](097A--CUT--.md) [--CUT--]
+* [101A](101A--CUT--.md) [--CUT--]
+* [103H](103H--CUT--.md) [--CUT--]
+* [105C](105C--CUT--.md) [--CUT--]
+* [107F](107F--CUT--.md) [--CUT--]
+* [107G](107G--CUT--.md) [--CUT--]
+* [109H](109H--CUT--.md) [--CUT--]
+* [111B](111B--CUT--.md) [--CUT--]
+* [111M](111M--CUT--.md) [--CUT--]
+* [114J](114J.md) [--CUT--]
+* [114L](114L--CUT--.md) [--CUT--]
+* [121D](121D.md) [--CUT--]
+* [121R](121R.md) [--CUT--]
+* [122B](122B--CUT--.md) [--CUT--]
+* [132A](132A--CUT--.md) [--CUT--]

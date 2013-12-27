@@ -62,8 +62,7 @@ Underwater Scenes/Shots:
 Ali in Nick's Bathroom:
 * [081 - INT. NICK'S BATHROOM](081-INT.NicksBathroom.md) (This scene plays through 083 and 085.)
 
-* [075 - INT. FAMILY ROOM](075-INT.FamilyRoom.md)
-
+Other:
 * [116 - INTERMISSION](116-INTERMISSION.md) [Hard to say what this scene was. Or where it has gone. But that's the way life is.]
 
 

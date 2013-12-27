@@ -1,35 +1,35 @@
 # Day 01: Thursday
 
-* [](025A--Take02--.md)
-* [](025B--Take01--.md)
-* [](025C--Take01--.md)
-* [](025D--Take01--.md)
-* [](026A--Take03--.md)
-* [](029A--Take02--.md)
-* [](029B--Take02--.md)
-* [](030A--Take02--.md)
-* [](030B--Take01--.md)
-* [](030C--Take01--.md)
-* [](031A--Take05--.md)
-* [](031B--Take03--.md)
-* [](031C--Take02--.md)
-* [](031D--Take04--.md)
-* [](031S--Take01--.md)
-* [](031E--Take02--.md)
-* [](031F--Take03--.md)
-* [](031G--Take03--.md)
-* [](031H--Take02--.md)
-* [](031I--Take01--.md)
-* [](031J--Take02--.md)
-* [](031K--Take03--.md)
-* [](031M--Take05--.md)
-* [](031L--Take05--.md)
-* [](031P--Take03--.md)
-* [](031R--Take02--.md)
-* [](059B--Take03--.md)
+* [025A](025A--Take02--.md) [Take 2.]
+* [025B](025B--Take01--.md) [Take 1.]
+* [025C](025C--Take01--.md) [Take 1.]
+* [025D](025D--Take01--.md) [Take 1.]
+* [026A](026A--Take03--.md) [Take 3.]
+* [029A](029A--Take02--.md) [Take 02.]
+* [029B](029B--Take02--.md) [Take 02.]
+* [030A](030A--Take02--.md) [Take 2.]
+* [030B](030B--Take01--.md) [Take 1.]
+* [030C](030C--Take01--.md) [Take 1.]
+* [031A](031A--Take05--.md) [Take 5.]
+* [031B](031B--Take03--.md) [Take 3.]
+* [031C](031C--Take02--.md) [Take 2.]
+* [031D](031D--Take04--.md) [Take 4.]
+* [031S](031S--Take01--.md) [Take 1.]
+* [031E](031E--Take02--.md) [Take 2.]
+* [031F](031F--Take03--.md) [Take 3.]
+* [031G](031G--Take03--.md) [Take 3.]
+* [031H](031H--Take02--.md) [Take 2.]
+* [031I](031I--Take01--.md) [Take 1.]
+* [031J](031J--Take02--.md) [Take 2.]
+* [031K](031K--Take03--.md) [Take 3.]
+* [031M](031M--Take05--.md) [Take 5.]
+* [031L](031L--Take05--.md) [Take 5.]
+* [031P](031P--Take03--.md) [Take 3.]
+* [031R](031R--Take02--.md) [Take 2.]
+* [059B](059B--Take03--.md) [Take 3.]
 * [059A](059A--Take02--.md) [Take 2.]
 * [050A](050A--Take02--.md) [Take 2.]
-* [](127A--FoundFootage--.md)
-* [](127B--FoundFootage--.md)
-* [](127C.md)
-* [](003-1M.md)
+* [127A](127A--FoundFootage--.md) [No recorded takes.]
+* [127B](127B--FoundFootage--.md) [No recorded takes.]
+* [127C](127C.md) [No recorded takes.]
+* [003-1M](003-1M.md) [Super-8; multiple takes, no slate.]

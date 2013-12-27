@@ -1,5 +1,5 @@
-* [004 - EXT. ROAD - AFTERNOON](004-EXT.Road-Afternoon.md) [Unshot.]
-* [006 - EXT. CORNFIELDS - AFTERNOON](006-EXT.Cornfields-Afternoon.md) [Unshot.]
+* [004 - EXT. ROAD - AFTERNOON](004-EXT.Road-Afternoon.md)
+* [006 - EXT. CORNFIELDS - AFTERNOON](006-EXT.Cornfields-Afternoon.md)
 * [010 - EXT. DRIVEWAY - DUSK](010-EXT.Driveway-Dusk--DEFERRED--.md)
 * [011 - INT. FAMILY ROOM](011-INT.FamilyRoom.md)
 * [018 - INT. FAMILY ROOM](018-INT.FamilyRoom.md)

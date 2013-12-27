@@ -1,44 +1,44 @@
 # Day 02: Friday
 
-* [](011C-011A--Take02--.md)
-* [](011I-011B--ATake0BTake02--.md)
-* [](018A--Take01--.md)
-* [](011D--Take04--.md)
-* [](011F--Take02--.md)
-* [](011E--Take03--.md)
-* [](011H-011G--ATake04BTake03--.md)
-* [](011K--NoPref.--.md)
-* [](011J--Take03--.md)
-* [](018B-018C--Take02--.md)
-* [](018D--NoPref.--.md)
-* [](020A--Take01--.md)
-* [](020B-020C--A-Take03B-Take04--.md)
-* [](027B--Take01--.md)
-* [](035A--Take04--.md)
-* [](035B--Take04--.md)
-* [](027A--Take02--.md)
+* [011C/011A](011C-011A--Take02--.md) [Take 2.]
+* [011I/011B](011I-011B--ATake01BTake02--.md) [Take 1 & Take 2, respectively.]
+* [018A](018A--Take01--.md) [Take 1.]
+* [011D](011D--Take04--.md) [Take 4.]
+* [011F](011F--Take02--.md) [Take 02.]
+* [011E](011E--Take03--.md) [Take 3.]
+* [011H/011G](011H-011G--ATake04BTake03--.md) [Take 4 & Take 3, respectively.]
+* [011K](011K--NoPref.--.md) [No take preference.]
+* [011J](011J--Take03--.md) [Take 3.]
+* [018B/018C](018B-018C--Take02--.md) [Take 2.]
+* [018D](018D--NoPref.--.md) [No take preference.]
+* [020A](020A--Take01--.md) [Take 1.]
+* [020B/020C](020B-020C--A-Take03B-Take04--.md) [Take 3 & Take 4, respectively.]
+* [027B](027B--Take01--.md) [Take 1.]
+* [035A](035A--Take04--.md) [Take 4.]
+* [035B](035B--Take04--.md) [Take 4.]
+* [027A](027A--Take02--.md) [Take 2.]
 * [027D/027C](027D-027C--Take02--.md)
-* [](032A--Take01--.md)
+* [032A](032A--Take01--.md) [Take 1.]
 * [032C/032B](032C-032B--Take02--.md) [Take 2.]
 * [034A](034A--Take02--.md) [Take 2.]
-* [](034C--NoPref.--.md)
-* [](034B--NoPref.--.md)
-* [](034D--NoPref.--.md)
-* [](033A.md)
+* [034C](034C--NoPref.--.md) [No take preference.]
+* [034B](034B--NoPref.--.md) [No take preference.]
+* [034D](034D--NoPref.--.md) [No take preference.]
+* [033A](033A.md) [No take preference.]
 * [036D/036C](036D-036C--Take01--.md) [Take 1.]
-* [](036A--Take01--.md)
+* [036A](036A--Take01--.md) [Take 1.]
 * [038A](038A.md) [No take preference.]
 * [038G/038H](038G-038H--Take02--.md) [Take 2.]
 * [040C/040B](040C-040B.md) [No take preference.]
-* [](036B--Take03--.md)
+* [036B](036B--Take03--.md) [Take 3.]
 * [038B/038C](038B-038C--Take02--.md) [Take 2.]
 * [038F/038E](038F-038E.md) [No take preference.]
 * [038D](038D--Take02--.md) [Take 2.]
-* [](036F--Take02--.md)
-* [](042B--Take03--.md)
-* [](042A--Take04--.md)
-* [](042C--Take02--.md)
-* [](042D--Take02--.md)
+* [036F](036F--Take02--.md) [Take 2.]
+* [042B](042B--Take03--.md) [Take 3.]
+* [042A](042A--Take04--.md) [Take 4.]
+* [042C](042C--Take02--.md) [Take 2.]
+* [042D](042D--Take02--.md) [Take 2.]
 * [042E/042F](042E-042F--Take03--.md) [Take 3.]
 * [042G/042H](042G-042H.md) [Take 2.]
 * [042J/042K](042J-042K--Take02--.md) [Take 2.]
