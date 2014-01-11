@@ -27,7 +27,7 @@ Notes for [B_Shot]: WATCH FOR LIGHTS ON LEFT, LEG SITTING AT RIGHT.
 ![ScriptScreenshot][]
 
 
-[A_Photo]:  "Image Title" align=left
-[B_Photo]:  "Image Title" align=right
+[A_Photo]:  /MadeMeDoIt/images/129B.JPG align=left
+[B_Photo]:  /MadeMeDoIt/images/.JPG align=right
 
 [ScriptScreenshot]: "Page Number"

@@ -21,6 +21,6 @@ Notes: WATCH FOR CHINA BALLS TOP LEFT. CROP IN?
 ![ScriptScreenshot][]
 
 
-[GeneralPhoto]:  "Image Title" align=left
+[GeneralPhoto]:  /MadeMeDoIt/images/060A.JPG align=left
 
 [ScriptScreenshot]: 

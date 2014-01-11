@@ -17,6 +17,6 @@ Notes: NO KITCHEN KNIFE IN SHOT, not too big a deal.
 ![ScriptScreenshot][]
 
 
-[GeneralPhoto]:  "Image Title" align=left
+[GeneralPhoto]:  /MadeMeDoIt/images/048A.JPG align=left
 
 [ScriptScreenshot]: 

@@ -12,12 +12,11 @@ Notes:
 | 01 | Multiple takes |
 | 02 | Multiple takes |
 
-
 ----
 
 ![ScriptScreenshot][]
 
 
-[GeneralPhoto]:  "Image Title" align=left
+[GeneralPhoto]:  /MadeMeDoIt/images/058B.JPG align=left
 
 [ScriptScreenshot]: 

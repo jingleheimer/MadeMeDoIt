@@ -1,4 +1,4 @@
-
+![set][]
 
 * [011 - INT. FAMILY ROOM](011-INT.FamilyRoom.md)
 * [018 - INT. FAMILY ROOM](018-INT.FamilyRoom.md)
@@ -18,5 +18,17 @@
 * [069 - INT. FAMILY ROOM](069-INT.FamilyRoom.md)
 * [073 - INT. FAMILY ROOM](073-INT.FamilyRoom.md)
 * [075 - INT. FAMILY ROOM](075-INT.FamilyRoom.md)
+
+![firelight][]
+**The room is now lit by a lovely fire.**
+
 * [114 - INT. FAMILY ROOM](114-INT.FamilyRoom.md)
 * [121 - INT. FAMILY ROOM](121-INT.FamilyRoom.md)
+
+----
+
+![prepro][]
+
+[set]: /MadeMeDoIt/images/FamilyRoom.JPG
+[firelight]: /MadeMeDoIt/images/LivingRoom114.JPG
+[prepro]: /MadeMeDoIt/images/FamilyRoomPrePro.JPG

@@ -12,6 +12,6 @@ Notes: NOT SLATED OR ANYTHING. JUST CRAZY.
 ![ScriptScreenshot][]
 
 
-[GeneralPhoto]:  "Image Title" align=left
+[GeneralPhoto]:  /MadeMeDoIt/images/.JPG align=left
 
 [ScriptScreenshot]: 

@@ -1,4 +1,10 @@
+**SCENE 28: Shadowy figure outside, could be Jason.**
+
 * [028 - EXT. FRONT YARD](028-EXT.FrontYard.md)
+
+![clean][]
+**SCENE 30: First scene with Jason.**
+
 * [030 - EXT. ALI'S WINDOW](030-EXT.AlisWindow.md)
 * [031 - INT. ALI'S ROOM](031-INT.AlisRoom.md)
 * [035 - INT. HALLWAY](035-INT.Hallway.md)
@@ -15,7 +21,16 @@
 * [075 - INT. FAMILY ROOM](075-INT.FamilyRoom.md)
 * [079 - INT. HALLWAY](079-INT.Hallway.md)
 * [080 - INT. NICK'S ROOM](080-INT.NicksRoom.md)
+
+**During SCENE 80: Jason gets stabbed with a cultivator.**
+
 * [086 - INT. NICK'S ROOM](086-INT.NicksRoom--088-091-093-096--.md)
+
+![bloody][]
+**During SCENE 86: Jason ties up his wound.
+![bloodyhands1][]
+![bloodyhands2][]
+
 * [088 - INT. NICK'S ROOM](088-INT.NicksRoom--CUT--.md)
 * [091 - INT. NICK'S ROOM](091-INT.NicksRoom--COMBINEDW086--.md)
 * [093 - INT. NICK'S ROOM](093-INT.NicksRoom--COMBINEDW086--.md)
@@ -32,7 +47,19 @@
 * [111 - EXT. DRIVEWAY](111-EXT.Driveway--CONTD--.md)
 * [113 - EXT. BASKETBALL COURT --FLASHBACK--](113-EXT.BasketballCourt-FLASHBACK.md)
 * [114 - INT. FAMILY ROOM](114-INT.FamilyRoom.md)
+
+**SCENE 114: Jason wakes up bound and gagged.**
+**SCENE 114: Jason is tortured by Thomas.**
+
+
 * [119 - EXT. BASKETBALL COURT --FLASHBACK--](119-EXT.BasketballCourt-FLASHBACK.md)
 * [121 - INT. FAMILY ROOM](121-INT.FamilyRoom.md)
 * [122 - EXT. DRIVEWAY](122-EXT.Driveway.md)
 * [129 - INT. NICK'S ROOM](129-INT.NicksRoom--FLASHBACK--.md)
+
+----
+
+[clean]: /MadeMeDoIt/images/JasonClean.JPG
+[bloody]: /MadeMeDoIt/images/JasonBloody1.JPG
+[bloodyhands1]: /MadeMeDoIt/images/JasonBloody2.JPG
+[bloodhands2]: /MadeMeDoIt/images/JasonBloody3.JPG

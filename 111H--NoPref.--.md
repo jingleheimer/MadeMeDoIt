@@ -19,6 +19,6 @@ Notes: TAKES ONE AND TWO SLATED AS CARD 59.
 ![ScriptScreenshot][]
 
 
-[GeneralPhoto]:  "Image Title" align=left
+[GeneralPhoto]: /MadeMeDoIt/images/111H.JPG align=left
 
 [ScriptScreenshot]: 

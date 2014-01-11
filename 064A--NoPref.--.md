@@ -17,6 +17,6 @@ Notes: "ROLL 84 IS A FALSE TAKE."
 ![ScriptScreenshot][]
 
 
-[GeneralPhoto]:  "Image Title" align=left
+[GeneralPhoto]:  /MadeMeDoIt/images/.JPG align=left
 
 [ScriptScreenshot]: 

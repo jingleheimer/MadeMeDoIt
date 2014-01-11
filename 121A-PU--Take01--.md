@@ -11,12 +11,11 @@ Notes: ALI STANDS OUT OF SHOT INTO 121J.
 |:---|:----|
 | 01 | ... |
 
-
 ----
 
 ![ScriptScreenshot][]
 
 
-[GeneralPhoto]:  "Image Title" align=left
+[GeneralPhoto]:  /MadeMeDoIt/images/.JPG align=left
 
 [ScriptScreenshot]: 

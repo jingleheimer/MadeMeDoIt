@@ -1,3 +1,5 @@
+**First scene with Nick (shoes on).**
+
 * [007 - INT. NICK'S ROOM - EVENING](007-INT.NicksRoom-Evening.md)
 * [008 - EXT. NEIGHBORHOOD - EVENING](008-EXT.Neighborhood-Evening.md)
 * [009 - EXT. NEIGHBORHOOD - EVENING](009-EXT.Neighborhood-Evening.md)
@@ -17,6 +19,9 @@
 * [040 - INT. FAMILY ROOM](040-INT.FamilyRoom.md)
 * [041 - EXT. BACKYARD](041-EXT.Backyard.md)
 * [042 - INT. FAMILY ROOM](042-INT.FamilyRoom.md)
+
+**Nick takes off his shoes for bed.**
+
 * [043 - INT. NICK'S ROOM](043-INT.NicksRoom.md)
 * [049 - INT. NICK'S ROOM](049-INT.NicksRoom.md)
 * [055 - INT. NICK'S ROOM](055-INT.NicksRoom.md)
@@ -29,5 +34,17 @@
 * [073 - INT. FAMILY ROOM](073-INT.FamilyRoom.md)
 * [074 - INT. PARENT'S ROOM](074-INT.ParentsRoom--COMBINEDW072--.md)
 * [076 - INT. PARENT'S ROOM](076-INT.ParentsRoom--COMBINEDW072--.md)
+
+![deadclean][]
+![deadbloody1][]
+![deadbloody2][]
+**DURING SCENE 72-76: Nick dies, spoilers.**
+
 * [103 - INT. HALLWAY](103-INT.Hallway.md)
 * [124 - INT. HALLWAY](124-INT.Hallway.md)
+
+----
+
+[deadclean]: /MadeMeDoIt/images/DeadNick1.JPG
+[deadbloody1]: /MadeMeDoIt/images/DeadNick2.JPG
+[deadbloody2]: /MadeMeDoIt/images/DeadNick3.JPG

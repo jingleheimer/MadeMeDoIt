@@ -29,13 +29,12 @@ Notes for [B_Shot]: WATCH FOR SHADOWS.
 | 05 | Multiple takes, WATCH FOR SHADOWS |
 | 06 | SHOT SOLO |
 
-
 ----
 
 ![ScriptScreenshot][]
 
 
-[A_Photo]:  "Image Title" align=left
-[B_Photo]:  "Image Title" align=right
+[A_Photo]:  /MadeMeDoIt/images/062Q062P.JPG align=left
+[B_Photo]:  /MadeMeDoIt/images/.JPG align=right
 
 [ScriptScreenshot]: "Page Number"

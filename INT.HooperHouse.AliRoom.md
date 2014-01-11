@@ -4,5 +4,16 @@
 * [026 - INT. ALI'S ROOM](026-INT.AlisRoom.md)
 * [029 - INT. ALI'S ROOM](029-INT.AlisRoom.md)
 * [031 - INT. ALI'S ROOM](031-INT.AlisRoom.md)
+
+![sleeping][]
+**Ali and Jason sleeping. Lights out.**
+
 * [050 - INT. ALI'S ROOM](050-INT.AlisRoom.md)
 * [059 - INT. ALI'S ROOM](059-INT.AlisRoom.md)
+
+----
+
+![prepro][]
+
+[prepro]: /MadeMeDoIt/images/AnnasRoomPrePro2.JPG
+[sleeping]: /MadeMeDoIt/images/JasonAnnaSleeping.JPG

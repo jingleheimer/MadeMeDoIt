@@ -17,6 +17,7 @@ Notes:
 ![ScriptScreenshot][]
 
 
-[GeneralPhoto]:  "Image Title" align=left
+[GeneralPhoto]:  /MadeMeDoIt/images/107H.JPG align=left
+(108I ??)
 
 [ScriptScreenshot]: 

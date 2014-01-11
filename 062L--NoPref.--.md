@@ -21,6 +21,6 @@ Notes:
 ![ScriptScreenshot][]
 
 
-[GeneralPhoto]:  "Image Title" align=left
+[GeneralPhoto]:  /MadeMeDoIt/images/062L.JPG align=left
 
 [ScriptScreenshot]: 

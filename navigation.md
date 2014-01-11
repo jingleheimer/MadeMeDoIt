@@ -9,15 +9,14 @@
    * [Day 05](monday05.md)
    * [Day 06](tuesday06.md)
 
-[Location](location.md)
+[Location]()
 
   * [EXT. BASKETBALL COURT](EXT.BasketballCourt.md)
   * [EXT. CORNFIELDS](EXT.Cornfields.md)
   * [EXT. FARMLAND ROAD](EXT.FarmlandRoad.md)
   * [EXT. HOOPER HOUSE - ALI'S WINDOW](EXT.HooperHouse.AliWindow.md)
   * [EXT. HOOPER HOUSE - BACKYARD](EXT.HooperHouse.Backyard.md)
-  * [EXT. HOOPER HOUSE - DRIVEWAY](EXT.HooperHouse.Driveway.md)
-  * [EXT. HOOPER HOUSE - FRONT YARD](EXT.HooperHouse.FrontYard.md)
+  * [EXT. HOOPER HOUSE - FRONT YARD/DRIVEWAY](EXT.HooperHouse.FrontYard.md)
   * [EXT. HOOPER HOUSE - PORCH](EXT.HooperHouse.Porch.md)
   * [EXT. NEIGHBORHOOD](EXT.Neighborhood.md)
   * [EXT. ROAD](EXT.Road.md)
@@ -40,7 +39,7 @@
   * [INT. HOSPITAL](INT.Hospital.md)
   * [INT. POLICE CAR](INT.PoliceCar.md)
 
-[Other](other.md)
+[Other]()
 
   * [Unshot Scenes](unshot.md)
   * [Cut Shots](cut.md)

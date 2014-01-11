@@ -18,6 +18,6 @@ Notes: VERY SHAKY, HARD TO READ THE PHONE.
 ![ScriptScreenshot][]
 
 
-[GeneralPhoto]:  "Image Title" align=left
+[GeneralPhoto]:  /MadeMeDoIt/images/.JPG align=left
 
 [ScriptScreenshot]: 

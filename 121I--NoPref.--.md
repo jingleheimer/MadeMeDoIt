@@ -18,6 +18,6 @@ Notes:
 ![ScriptScreenshot][]
 
 
-[GeneralPhoto]:  "Image Title" align=left
+[GeneralPhoto]:  /MadeMeDoIt/images/121I.JPG align=left
 
 [ScriptScreenshot]: 

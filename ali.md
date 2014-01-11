@@ -1,11 +1,23 @@
+**SCENE 4: First scene with Ali.**
+
 * [004 - EXT. ROAD - AFTERNOON](004-EXT.Road-Afternoon.md)
 * [006 - EXT. CORNFIELDS - AFTERNOON](006-EXT.Cornfields-Afternoon.md)
 * [010 - EXT. DRIVEWAY - DUSK](010-EXT.Driveway-Dusk--DEFERRED--.md)
 * [011 - INT. FAMILY ROOM](011-INT.FamilyRoom.md)
+
+**AFTER SCENE 11: Ali changes into a swimsuit.**
+
 * [018 - INT. FAMILY ROOM](018-INT.FamilyRoom.md)
 * [019 - EXT. BACKYARD](019-EXT.Backyard.md)
+
+**DURING SCENE 91: Ali goes for a swim.**
+
 * [020 - INT. FAMILY ROOM](020-INT.FamilyRoom.md)
 * [021 - INT. DOORWAY](021-INT.Doorway.md)
+
+![pjs][]
+**Ali changes into pajamas.**
+
 * [025 - INT. ALI'S ROOM](025-INT.AlisRoom-TIMESKIP.md)
 * [026 - INT. ALI'S ROOM](026-INT.AlisRoom.md)
 * [029 - INT. ALI'S ROOM](029-INT.AlisRoom.md)
@@ -23,13 +35,22 @@
 * [059 - INT. ALI'S ROOM](059-INT.AlisRoom.md)
 * [061 - INT. HALLWAY](061-INT.Hallway.md)
 * [062 - INT. KITCHEN](062-INT.Kitchen.md)
+
+**DURING SCENE 62: Ali gets Thomas' blood on her hands.**
+
 * [064 - EXT. BACKYARD](064-EXT.Backyard.md)
+
+**DURING SCENE 64: Ali is almost drowned by Thomas. SOURCE FOR WETNESS THROUGH 081.**
+
 * [067 - INT. FAMILY ROOM](067-INT.FamilyRoom.md)
 * [069 - INT. FAMILY ROOM](069-INT.FamilyRoom.md)
 * [071 - INT. DOORWAY](071-INT.Doorway.md)
 * [072 - INT. PARENT'S ROOM](072-INT.ParentsRoom.md)
 * [074 - INT. PARENT'S ROOM](074-INT.ParentsRoom--COMBINEDW072--.md)
 * [076 - INT. PARENT'S ROOM](076-INT.ParentsRoom--COMBINEDW072--.md)
+
+**DURING SCENE 72: Ali gets Nick's blood on her.**
+
 * [077 - INT. HALLWAY](077-INT.Hallway.md)
 * [078 - EXT. FRONT PORCH](078-EXT.Porch.md)
 * [079 - INT. HALLWAY](079-INT.Hallway.md)
@@ -39,6 +60,10 @@
 * [083 - INT. NICK'S BATHROOM](083-INT.NicksBathroom--CUT--.md)
 * [084 - INT. CLASSROOM --FLASHBACK--](084-INT.Classroom-FLASHBACK--CUT--.md)
 * [085 - INT. NICK'S BATHROOM](085-INT.NicksBathroom--CUT--.md)
+
+![nickshirt][]
+**DURING SCENE 81-85: Ali changes into Nick's shirt and medal.**
+
 * [086 - INT. NICK'S ROOM](086-INT.NicksRoom--088-091-093-096--.md)
 * [088 - INT. NICK'S ROOM](088-INT.NicksRoom--CUT--.md)
 * [091 - INT. NICK'S ROOM](091-INT.NicksRoom--COMBINEDW086--.md)
@@ -60,6 +85,9 @@
 * [111 - EXT. DRIVEWAY](111-EXT.Driveway--CONTD--.md)
 * [112 - INT. CLASSROOM --FLASHBACK--](112-INT.Classroom-FLASHBACK.md)
 * [113 - EXT. BASKETBALL COURT --FLASHBACK--](113-EXT.BasketballCourt-FLASHBACK.md)
+
+**Ali is bound and gagged.**
+
 * [114 - INT. FAMILY ROOM](114-INT.FamilyRoom.md)
 * [115 - INT. CLASSROOM --FLASHBACK--](115-INT.Classroom-FLASHBACK.md)
 * [118 - INT. CLASSROOM --FLASHBACK--](118-INT.Classroom-FLASHBACK.md)
@@ -69,3 +97,8 @@
 * [122 - EXT. DRIVEWAY](122-EXT.Driveway.md)
 * [125 - EXT. DRIVEWAY](125-EXT.Driveway.md)
 * [131 - EXT. DRIVEWAY](131-EXT.Driveway.md)
+
+----
+
+[pjs]: /MadeMeDoIt/images/AnnaPJs1.JPG
+[nickshirt]: /MadeMeDoIt/images/Anna1.JPG

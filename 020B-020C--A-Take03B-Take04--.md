@@ -30,7 +30,7 @@ Notes for 020C: IF IT MATTERS, NICK SWITCHES THE LINE AT END OF SHOT.
 ![ScriptScreenshot][]
 
 
-[A_Photo]:  "Image Title" align=left
-[B_Photo]:  "Image Title" align=right
+[A_Photo]:  /MadeMeDoIt/images/020B020C.JPG align=left
+[B_Photo]:  /MadeMeDoIt/images/.JPG align=right
 
 [ScriptScreenshot]: "Page Number"
