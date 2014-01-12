@@ -7,7 +7,9 @@
 ### Lav on Nick, boom from above.
 
 ![A_Photo][]
+
 ----
+
 Notes for [A_Shot]: 
 
 | Takes | Description |
