@@ -7,18 +7,21 @@
 ### Lavs on Ali and Nick, boom from above
 
 ![A_Photo][]
+
+----
+
 Notes for 011H: 
 
-Notes for 011G: 
-
-| 011H Takes | Description |
+| Takes | Description |
 |:---|:----|
 | 01 | ... |
 | 02 | FALSE TAKE |
 | 03 | ... |
 | 04 | ... |
 
-| 011G Takes | Description |
+Notes for 011G: 
+
+| Takes | Description |
 |:---|:----|
 | 01 | ... |
 | 02 | NEW ROLL; ROLLING WITH A:TAKE 3|

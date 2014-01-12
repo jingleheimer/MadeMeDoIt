@@ -7,13 +7,16 @@
 ### MOS
 
 ![A_Photo][]
-Notes for 011I: 
 
-Notes for 011B: 
+----
+
+Notes for 011I: 
 
 | 011I Takes | Description |
 |:---|:----|
 | 01 | ... |
+
+Notes for 011B: 
 
 | 011B Takes | Description |
 |:---|:----|

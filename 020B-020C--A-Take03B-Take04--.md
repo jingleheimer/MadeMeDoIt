@@ -7,15 +7,18 @@
 ### Lav on Nick, two booms above and below Ali
 
 ![A_Photo][]
-Notes for 020B: REFLECTION IN WINDOW; NEED FIXED. Also, this shot-pair is heavily cheated. Make sure it fits with the other scenes, especially 18D.
 
-Notes for 020C: IF IT MATTERS, NICK SWITCHES THE LINE AT END OF SHOT.
+----
+
+Notes for 020B: REFLECTION IN WINDOW; NEED FIXED. Also, this shot-pair is heavily cheated. Make sure it fits with the other scenes, especially 18D.
 
 | 020B Takes | Description |
 |:---|:----|
 | 01 | ... |
 | 02SER | SHOT SOLO; not really a series |
 | 03 | Multiple takes |
+
+Notes for 020C: IF IT MATTERS, NICK SWITCHES THE LINE AT END OF SHOT.
 
 | 020C Takes | Description |
 |:---|:----|
