@@ -30,7 +30,7 @@ Notes for [B_Shot]:
 ![ScriptScreenshot][]
 
 
-[A_Photo]:  MadeMeDoIt/images/007A007B.JPG align=left
-[B_Photo]:  MadeMeDoIt/images/.JPG align=right
+[A_Photo]:  MadeMeDoIt/images/007A007B.JPG
+[B_Photo]:  MadeMeDoIt/images/.JPG
 
 [ScriptScreenshot]: "Page Number"
