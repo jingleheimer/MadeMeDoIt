@@ -13,5 +13,5 @@
 ![prepro1][]
 ![prepro2][]
 
-[prepro1]:  /MadeMeDoIt/images/TomsHousePrePro1.JPG
-[prepro2]:  /MadeMeDoIt/images/TomsHousePrePro2.JPG
+[prepro1]:  images/TomsHousePrePro1.JPG
+[prepro2]:  images/TomsHousePrePro2.JPG

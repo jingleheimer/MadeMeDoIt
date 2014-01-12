@@ -34,7 +34,7 @@ Notes for [B_Shot]: WATCH FOR SHADOWS.
 ![ScriptScreenshot][]
 
 
-[A_Photo]:  /MadeMeDoIt/images/062Q062P.JPG align=left
-[B_Photo]:  /MadeMeDoIt/images/.JPG align=right
+[A_Photo]:  images/062Q062P.JPG align=left
+[B_Photo]:  images/.JPG align=right
 
 [ScriptScreenshot]: "Page Number"

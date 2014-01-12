@@ -59,7 +59,7 @@
 
 ----
 
-[clean]: /MadeMeDoIt/images/JasonClean.JPG
-[bloody]: /MadeMeDoIt/images/JasonBloody1.JPG
-[bloodyhands1]: /MadeMeDoIt/images/JasonBloody2.JPG
-[bloodhands2]: /MadeMeDoIt/images/JasonBloody3.JPG
+[clean]: images/JasonClean.JPG
+[bloody]: images/JasonBloody1.JPG
+[bloodyhands1]: images/JasonBloody2.JPG
+[bloodhands2]: images/JasonBloody3.JPG

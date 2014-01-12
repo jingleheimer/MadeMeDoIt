@@ -17,6 +17,6 @@ Notes: MIS-SLATED AS 40-A.
 ![ScriptScreenshot][]
 
 
-[GeneralPhoto]:  /MadeMeDoIt/images/.JPG align=left
+[GeneralPhoto]:  images/.JPG align=left
 
 [ScriptScreenshot]: 

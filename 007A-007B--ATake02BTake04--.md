@@ -16,7 +16,6 @@ Notes for [A_Shot]:
 
 
 Notes for [B_Shot]: 
-![B_Photo][]
 
 | Takes | Description |
 |:---|:----|
@@ -31,6 +30,5 @@ Notes for [B_Shot]:
 
 
 [A_Photo]:  images/007A007B.JPG
-[B_Photo]:  images/.JPG
 
 [ScriptScreenshot]: "Page Number"

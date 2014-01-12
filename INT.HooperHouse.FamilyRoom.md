@@ -29,6 +29,6 @@
 
 ![prepro][]
 
-[set]: /MadeMeDoIt/images/FamilyRoom.JPG
-[firelight]: /MadeMeDoIt/images/LivingRoom114.JPG
-[prepro]: /MadeMeDoIt/images/FamilyRoomPrePro.JPG
+[set]: images/FamilyRoom.JPG
+[firelight]: images/LivingRoom114.JPG
+[prepro]: images/FamilyRoomPrePro.JPG

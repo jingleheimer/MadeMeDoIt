@@ -16,4 +16,4 @@
 
 ![prepro][]
 
-[prepro]:  /MadeMeDoIt/images/Pool.JPG
+[prepro]:  images/Pool.JPG

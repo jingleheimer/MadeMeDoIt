@@ -17,6 +17,6 @@ Notes:
 ![ScriptScreenshot][]
 
 
-[GeneralPhoto]:  /MadeMeDoIt/images/034C.JPG align=left
+[GeneralPhoto]:  images/034C.JPG align=left
 
 [ScriptScreenshot]: 

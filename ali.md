@@ -100,5 +100,5 @@
 
 ----
 
-[pjs]: /MadeMeDoIt/images/AnnaPJs1.JPG
-[nickshirt]: /MadeMeDoIt/images/Anna1.JPG
+[pjs]: images/AnnaPJs1.JPG
+[nickshirt]: images/Anna1.JPG

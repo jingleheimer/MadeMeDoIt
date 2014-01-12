@@ -13,8 +13,8 @@
 !prepro][]
 ![extdoor][]
 
-[tableside]: /MadeMeDoIt/images/Kitchen1.JPG
-[counterside]: /MadeMeDoIt/images/Kitchen2.JPG
-[fridge]: /MadeMeDoIt/images/Kitchen3.JPG
-[extdoor]: /MadeMeDoIt/images/KitchenDoorExt.JPG
-[prepro]: /MadeMeDoIt/images/KitchenPrePro.JPG
+[tableside]: images/Kitchen1.JPG
+[counterside]: images/Kitchen2.JPG
+[fridge]: images/Kitchen3.JPG
+[extdoor]: images/KitchenDoorExt.JPG
+[prepro]: images/KitchenPrePro.JPG

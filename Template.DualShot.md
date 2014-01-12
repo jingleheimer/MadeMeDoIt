@@ -25,7 +25,7 @@ Notes for [B_Shot]:
 ![ScriptScreenshot][]
 
 
-[A_Photo]:  /MadeMeDoIt/images/.JPG align=left
+[A_Photo]:  images/.JPG align=left
 [B_Photo]:  "Image Title" align=right
 
 [ScriptScreenshot]: "Page Number"

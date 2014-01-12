@@ -4,4 +4,4 @@
 
 ----
 
-[window]: /MadeMeDoIt/images/AlisRoom.JPG
+[window]: images/AlisRoom.JPG

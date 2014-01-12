@@ -15,5 +15,5 @@
 
 ![prepro][]
 
-[prepro]: /MadeMeDoIt/images/AnnasRoomPrePro2.JPG
-[sleeping]: /MadeMeDoIt/images/JasonAnnaSleeping.JPG
+[prepro]: images/AnnasRoomPrePro2.JPG
+[sleeping]: images/JasonAnnaSleeping.JPG

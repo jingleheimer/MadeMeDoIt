@@ -17,6 +17,6 @@ Notes: SLATED AS CARD A 018
 ![ScriptScreenshot][]
 
 
-[GeneralPhoto]:  /MadeMeDoIt/images/.JPG align=left
+[GeneralPhoto]:  images/.JPG align=left
 
 [ScriptScreenshot]: 

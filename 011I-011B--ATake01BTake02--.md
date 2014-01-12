@@ -26,7 +26,7 @@ Notes for 011B:
 ![ScriptScreenshot][]
 
 
-[A_Photo]:  /MadeMeDoIt/images/.JPG align=left
-[B_Photo]:  /MadeMeDoIt/images/.JPG align=right
+[A_Photo]:  images/.JPG align=left
+[B_Photo]:  images/.JPG align=right
 
 [ScriptScreenshot]: "Page Number"

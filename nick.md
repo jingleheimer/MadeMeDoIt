@@ -45,6 +45,6 @@
 
 ----
 
-[deadclean]: /MadeMeDoIt/images/DeadNick1.JPG
-[deadbloody1]: /MadeMeDoIt/images/DeadNick2.JPG
-[deadbloody2]: /MadeMeDoIt/images/DeadNick3.JPG
+[deadclean]: images/DeadNick1.JPG
+[deadbloody1]: images/DeadNick2.JPG
+[deadbloody2]: images/DeadNick3.JPG

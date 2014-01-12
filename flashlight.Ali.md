@@ -6,4 +6,4 @@
 
 ----
 
-[flashlight]: /MadeMeDoIt/images/AlisFlashlight.JPG
+[flashlight]: images/AlisFlashlight.JPG

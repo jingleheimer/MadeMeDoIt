@@ -18,6 +18,6 @@ Notes:
 ![ScriptScreenshot][]
 
 
-[GeneralPhoto]:  /MadeMeDoIt/images/111D.JPG align=left
+[GeneralPhoto]:  images/111D.JPG align=left
 
 [ScriptScreenshot]: 

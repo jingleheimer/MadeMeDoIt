@@ -17,5 +17,5 @@
 
 ![prepro][]
 
-[set]: /MadeMeDoIt/images/FrontYard.JPG
-[prepro]: /MadeMeDoIt/images/FrontYardPrePro.JPG
+[set]: images/FrontYard.JPG
+[prepro]: images/FrontYardPrePro.JPG

@@ -21,6 +21,6 @@ Notes:
 ![ScriptScreenshot][]
 
 
-[GeneralPhoto]:  /MadeMeDoIt/images/.JPG align=left
+[GeneralPhoto]:  images/.JPG align=left
 
 [ScriptScreenshot]: 

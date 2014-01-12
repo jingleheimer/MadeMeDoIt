@@ -10,7 +10,7 @@
 ![viewin][]
 ![prepro][]
 
-[bed]:  /MadeMeDoIt/images/ParentsRoom1.JPG
-[footofbed]:  /MadeMeDoIt/images/ParentsRoom2.JPG
-[prepro]:  /MadeMeDoIt/images/ParentsRoomPrePro.JPG
-[viewin]:  /MadeMeDoIt/images/ParentsRoomViewIn.JPG
+[bed]:  images/ParentsRoom1.JPG
+[footofbed]:  images/ParentsRoom2.JPG
+[prepro]:  images/ParentsRoomPrePro.JPG
+[viewin]:  images/ParentsRoomViewIn.JPG

@@ -7,5 +7,5 @@
 ![prepro1][]
 ![prepro2][]
 
-[prepro1]: /MadeMeDoIt/images/GreenhousePrePro.JPG
-[prepro2]: /MadeMeDoIt/images/GreenhousePrePro2.JPG
+[prepro1]: images/GreenhousePrePro.JPG
+[prepro2]: images/GreenhousePrePro2.JPG
