@@ -7,15 +7,17 @@
 ### Lav on Nick, boom from above.
 
 ![A_Photo][]
+----
 Notes for [A_Shot]: 
-Notes for [B_Shot]: 
 
-| A-Camera Takes | Description |
+| Takes | Description |
 |:---|:----|
 | 01 | WATCH FOR CAMERA LIGHT IN REFLECTION |
 | 02 | ... |
 
-| B-Camera Takes | Description |
+Notes for [B_Shot]: 
+
+| Takes | Description |
 |:---|:----|
 | 01 | ... |
 | 02 | SHOT SOLO; CAMERA LIGHT IN REFLECTION |
