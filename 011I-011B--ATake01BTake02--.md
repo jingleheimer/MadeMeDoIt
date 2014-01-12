@@ -9,14 +9,13 @@
 ![A_Photo][]
 Notes for 011I: 
 
-| Takes | Description |
+Notes for 011B: 
+
+| 011I Takes | Description |
 |:---|:----|
 | 01 | ... |
 
-Notes for 011B: 
-![B_Photo][]
-
-| Takes | Description |
+| 011B Takes | Description |
 |:---|:----|
 | 01 | ... |
 | 02 | WATCH FOR GATORADE IN BEGINNING OF SHOT |
@@ -26,7 +25,6 @@ Notes for 011B:
 ![ScriptScreenshot][]
 
 
-[A_Photo]:  images/.JPG align=left
-[B_Photo]:  images/.JPG align=right
+[A_Photo]:  images/.JPG
 
 [ScriptScreenshot]: "Page Number"

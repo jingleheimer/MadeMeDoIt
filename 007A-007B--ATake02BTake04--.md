@@ -9,15 +9,14 @@
 ![A_Photo][]
 Notes for [A_Shot]: 
 
-| Takes | Description |
+Notes for [B_Shot]: 
+
+| A-Camera Takes | Description |
 |:---|:----|
 | 01 | WATCH FOR CAMERA LIGHT IN REFLECTION |
 | 02 | ... |
 
-
-Notes for [B_Shot]: 
-
-| Takes | Description |
+| B-Camera Takes | Description |
 |:---|:----|
 | 01 | ... |
 | 02 | SHOT SOLO; CAMERA LIGHT IN REFLECTION |

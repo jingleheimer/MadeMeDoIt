@@ -9,16 +9,15 @@
 ![A_Photo][]
 Notes for 020B: REFLECTION IN WINDOW; NEED FIXED. Also, this shot-pair is heavily cheated. Make sure it fits with the other scenes, especially 18D.
 
-| Takes | Description |
+Notes for 020C: IF IT MATTERS, NICK SWITCHES THE LINE AT END OF SHOT.
+
+| 020B Takes | Description |
 |:---|:----|
 | 01 | ... |
 | 02SER | SHOT SOLO; not really a series |
 | 03 | Multiple takes |
 
-Notes for 020C: IF IT MATTERS, NICK SWITCHES THE LINE AT END OF SHOT.
-![B_Photo][]
-
-| Takes | Description |
+| 020C Takes | Description |
 |:---|:----|
 | 01 | EYELINE OFF |
 | 02 | SHOT SOLO; EYELINE STILL OFF |
@@ -30,7 +29,6 @@ Notes for 020C: IF IT MATTERS, NICK SWITCHES THE LINE AT END OF SHOT.
 ![ScriptScreenshot][]
 
 
-[A_Photo]:  images/020B020C.JPG align=left
-[B_Photo]:  images/.JPG align=right
+[A_Photo]:  images/020B020C.JPG
 
 [ScriptScreenshot]: "Page Number"

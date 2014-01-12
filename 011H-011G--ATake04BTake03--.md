@@ -1,4 +1,4 @@
-# 001H: CU - Swingle Ali and Nick, rest of scene
+# 011H: CU - Swingle Ali and Nick, rest of scene
 ## Shoulder-Mount Static: Card A001
 
 # 011G: W/M - Two shot Ali and Nick on couch
@@ -9,17 +9,16 @@
 ![A_Photo][]
 Notes for 011H: 
 
-| Takes | Description |
+Notes for 011G: 
+
+| 011H Takes | Description |
 |:---|:----|
 | 01 | ... |
 | 02 | FALSE TAKE |
 | 03 | ... |
 | 04 | ... |
 
-Notes for 011G: 
-![B_Photo][]
-
-| Takes | Description |
+| 011G Takes | Description |
 |:---|:----|
 | 01 | ... |
 | 02 | NEW ROLL; ROLLING WITH A:TAKE 3|
@@ -30,7 +29,6 @@ Notes for 011G:
 ![ScriptScreenshot][]
 
 
-[A_Photo]:  images/011H011G.JPG align=left
-[B_Photo]:  images/.JPG align=right
+[A_Photo]:  images/011H011G.JPG
 
 [ScriptScreenshot]: "Page Number"
