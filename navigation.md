@@ -43,6 +43,7 @@
 
   * [Unshot Scenes](unshot.md)
   * [Cut Shots](cut.md)
+  * [Dual (Two-Camera) Shots](dual.md)
   * [Shots with VFX](vfx.md)
 
 [Props]()
