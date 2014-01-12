@@ -8,7 +8,6 @@
 
 ![A_Photo][]
 Notes for [A_Shot]: 
-
 Notes for [B_Shot]: 
 
 | A-Camera Takes | Description |
