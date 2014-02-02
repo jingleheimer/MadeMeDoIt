@@ -31,6 +31,6 @@ Notes for [B_Shot]:
 ![ScriptScreenshot][]
 
 
-[A_Photo]:  MadeMeDoIt/images/007A007B.JPG
+[A_Photo]: MadeMeDoIt/images/007A007B.JPG
 
 [ScriptScreenshot]: "Page Number"
