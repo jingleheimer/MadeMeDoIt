@@ -18,5 +18,3 @@ Notes:
 
 
 [GeneralPhoto]:  images/034C.JPG align=left
-
-[ScriptScreenshot]: 

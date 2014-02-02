@@ -18,5 +18,3 @@ Notes:
 
 
 [GeneralPhoto]:  images/058B.JPG align=left
-
-[ScriptScreenshot]: 

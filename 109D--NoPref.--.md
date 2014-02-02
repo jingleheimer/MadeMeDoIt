@@ -20,4 +20,3 @@ Notes:
 
 [GeneralPhoto]:  images/109D.JPG align=left
 
-[ScriptScreenshot]: 

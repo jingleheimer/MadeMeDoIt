@@ -18,5 +18,3 @@ Notes: NO KITCHEN KNIFE IN SHOT, not too big a deal.
 
 
 [GeneralPhoto]:  images/048A.JPG align=left
-
-[ScriptScreenshot]: 

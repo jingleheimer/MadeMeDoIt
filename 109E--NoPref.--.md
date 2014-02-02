@@ -18,5 +18,3 @@ Notes:
 
 
 [GeneralPhoto]:   align=left
-
-[ScriptScreenshot]: 

@@ -33,5 +33,3 @@ Notes for 011G:
 
 
 [A_Photo]:  images/011H011G.JPG
-
-[ScriptScreenshot]: "Page Number"

@@ -18,5 +18,3 @@ Notes: SLATED AS CARD A 018
 
 
 [GeneralPhoto]:  images/.JPG align=left
-
-[ScriptScreenshot]: 

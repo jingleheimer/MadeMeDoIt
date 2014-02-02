@@ -17,5 +17,3 @@ Notes: ALI STANDS OUT OF SHOT INTO 121J.
 
 
 [GeneralPhoto]:  images/.JPG align=left
-
-[ScriptScreenshot]: 

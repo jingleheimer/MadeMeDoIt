@@ -18,5 +18,3 @@ Notes:
 
 
 [GeneralPhoto]:  images/064B.JPG align=left
-
-[ScriptScreenshot]: 

@@ -18,5 +18,3 @@ Notes:
 
 
 [GeneralPhoto]:  images/121C.JPG align=left
-
-[ScriptScreenshot]: 

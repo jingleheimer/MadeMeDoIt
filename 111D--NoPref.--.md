@@ -19,5 +19,3 @@ Notes:
 
 
 [GeneralPhoto]:  images/111D.JPG align=left
-
-[ScriptScreenshot]: 

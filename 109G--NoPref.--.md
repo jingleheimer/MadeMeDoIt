@@ -18,5 +18,3 @@ Notes:
 
 
 [GeneralPhoto]:  images/109G.JPG align=left
-
-[ScriptScreenshot]: 

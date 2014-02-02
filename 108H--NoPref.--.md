@@ -20,5 +20,3 @@ Notes: ALI'S AUDIO MUFFLED IN TAKES ONE THROUGH THREE; NO THOMAS SHADOW WHEN CRO
 
 
 [GeneralPhoto]:  images/108H.JPG align=left
-
-[ScriptScreenshot]: 

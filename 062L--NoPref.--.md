@@ -22,5 +22,3 @@ Notes:
 
 
 [GeneralPhoto]:  images/062L.JPG align=left
-
-[ScriptScreenshot]: 

@@ -33,5 +33,3 @@ Notes for [B_Shot]:
 
 [A_Photo]:  images/109B.JPG align=left
 [B_Photo]:  images/109A.JPG align=right
-
-[ScriptScreenshot]: "Page Number"

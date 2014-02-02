@@ -33,5 +33,3 @@ Notes for 020C: IF IT MATTERS, NICK SWITCHES THE LINE AT END OF SHOT.
 
 
 [A_Photo]:  images/020B020C.JPG
-
-[ScriptScreenshot]: "Page Number"

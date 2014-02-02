@@ -18,5 +18,3 @@ Notes: MIS-SLATED AS 40-A.
 
 
 [GeneralPhoto]:  images/.JPG align=left
-
-[ScriptScreenshot]: 

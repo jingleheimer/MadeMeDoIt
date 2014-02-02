@@ -27,5 +27,3 @@ Notes for [B_Shot]:
 
 [A_Photo]:  images/.JPG align=left
 [B_Photo]:  "Image Title" align=right
-
-[ScriptScreenshot]: "Page Number"

@@ -19,5 +19,3 @@ Notes:
 
 [GeneralPhoto]:  images/107H.JPG align=left
 (108I ??)
-
-[ScriptScreenshot]: 

@@ -19,5 +19,3 @@ Notes: VERY SHAKY, HARD TO READ THE PHONE.
 
 
 [GeneralPhoto]:  images/.JPG align=left
-
-[ScriptScreenshot]: 

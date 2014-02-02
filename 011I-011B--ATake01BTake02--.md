@@ -29,5 +29,3 @@ Notes for 011B:
 
 
 [A_Photo]:  images/.JPG
-
-[ScriptScreenshot]: "Page Number"

@@ -39,5 +39,3 @@ Notes for [B_Shot]: WATCH FOR SHADOWS.
 
 [A_Photo]:  images/062Q062P.JPG align=left
 [B_Photo]:  images/.JPG align=right
-
-[ScriptScreenshot]: "Page Number"

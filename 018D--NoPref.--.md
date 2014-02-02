@@ -18,5 +18,3 @@ Notes:
 
 
 [GeneralPhoto]:  images/018D.JPG align=left
-
-[ScriptScreenshot]: 

@@ -18,5 +18,3 @@ Notes: BLOODY SHIRT, BLOODY AXE
 
 
 [GeneralPhoto]:  images/.JPG align=left
-
-[ScriptScreenshot]: 

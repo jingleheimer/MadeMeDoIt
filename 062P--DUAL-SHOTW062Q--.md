@@ -19,5 +19,3 @@ Notes:
 
 
 [GeneralPhoto]:  images/.JPG align=left
-
-[ScriptScreenshot]: 

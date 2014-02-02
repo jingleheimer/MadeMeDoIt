@@ -20,5 +20,3 @@ Notes: TAKES ONE AND TWO SLATED AS CARD 59.
 
 
 [GeneralPhoto]: images/111H.JPG align=left
-
-[ScriptScreenshot]: 

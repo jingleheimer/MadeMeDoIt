@@ -13,5 +13,3 @@ Notes: NOT SLATED OR ANYTHING. JUST CRAZY.
 
 
 [GeneralPhoto]:  images/.JPG align=left
-
-[ScriptScreenshot]: 

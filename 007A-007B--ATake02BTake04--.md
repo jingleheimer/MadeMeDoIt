@@ -32,5 +32,3 @@ Notes for [B_Shot]:
 
 
 [A_Photo]: images/007A007B.JPG
-
-[ScriptScreenshot]: "Page Number"

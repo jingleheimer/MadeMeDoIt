@@ -22,5 +22,3 @@ Notes: WATCH FOR CHINA BALLS TOP LEFT. CROP IN?
 
 
 [GeneralPhoto]:  images/060A.JPG align=left
-
-[ScriptScreenshot]: 

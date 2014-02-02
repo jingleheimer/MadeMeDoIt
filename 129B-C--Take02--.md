@@ -29,5 +29,3 @@ Notes for [B_Shot]: WATCH FOR LIGHTS ON LEFT, LEG SITTING AT RIGHT.
 
 [A_Photo]:  images/129B.JPG align=left
 [B_Photo]:  images/.JPG align=right
-
-[ScriptScreenshot]: "Page Number"

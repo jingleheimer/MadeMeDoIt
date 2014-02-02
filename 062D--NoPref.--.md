@@ -18,5 +18,3 @@ Notes:
 
 
 [GeneralPhoto]:  images/062D.JPG align=left
-
-[ScriptScreenshot]: 

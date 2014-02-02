@@ -20,5 +20,3 @@ Notes:
 
 
 [GeneralPhoto]:  images/064C.JPG align=left
-
-[ScriptScreenshot]: 

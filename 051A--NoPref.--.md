@@ -20,5 +20,3 @@ Notes: FISHING LINE NEEDS REMOVED IN POST.
 
 
 [GeneralPhoto]:  images/.JPG align=left
-
-[ScriptScreenshot]: 
