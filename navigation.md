@@ -39,12 +39,22 @@
   * [INT. HOSPITAL](INT.Hospital.md)
   * [INT. POLICE CAR](INT.PoliceCar.md)
 
-[Other]()
+[Characters]()
 
-  * [Unshot Scenes](unshot.md)
-  * [Cut Shots](cut.md)
-  * [Dual (Two-Camera) Shots](dual.md)
-  * [Shots with VFX](vfx.md)
+   * [Ali Hooper](ali.md)
+   * [Aunt Shannon](auntshannon.md)
+   * [Bob](bob.md)
+   * [Cult Members](cultmembers.md)
+   * [Doctor McDermott](doctormcdermott.md)
+   * [Jason](jason.md)
+   * [Jill (VO)](jill.md)
+   * [Mom (VO)](mom.md)
+   * [Nick Hooper](nick.md)
+   * [Pizza Man](pizzaman.md)
+   * [Police Officer](policeofficer.md)
+   * [Teenagers (FLASHBACK)](teenagers.md)
+   * [Thomas](thomas.md)
+
 
 [Props]()
 
@@ -62,6 +72,13 @@
    * [Nick's Medal](medal.md)
    * [Nick's Pocketknife](pocketknife.md)
    * [Nick's Skateboard](skateboard.md)
+
+[Other]()
+
+  * [Unshot Scenes](unshot.md)
+  * [Cut Shots](cut.md)
+  * [Dual (Two-Camera) Shots](dual.md)
+  * [Shots with VFX](vfx.md)
 
 [Scene](scene.md)
 
