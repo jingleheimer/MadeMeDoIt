@@ -1,4 +1,0 @@
-
-
-* [013 - INT. BOB'S CAR - LATER](013-INT.BobsCar-TIMESKIP.md)
-* [015 - INT. BOB'S CAR](015-INT.BobsCar.md)

@@ -1,7 +1,5 @@
 ![set][]
 
-* [009 - EXT. NEIGHBORHOOD - EVENING](009-EXT.Neighborhood-Evening.md)
-* [010 - EXT. DRIVEWAY - DUSK](010-EXT.Driveway-Dusk--DEFERRED--.md)
 * [022-024 - EXT. DRIVEWAY](022-024-EXT.Driveway--023-024--.md)
 * [022-024 - EXT. DRIVEWAY](022-024-EXT.Driveway--023-024--.md)
 * [028 - EXT. FRONT YARD](028-EXT.FrontYard.md)

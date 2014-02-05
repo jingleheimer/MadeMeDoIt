@@ -11,21 +11,11 @@
 
 [Location]()
 
-  * [EXT. BASKETBALL COURT](EXT.BasketballCourt.md)
-  * [EXT. CORNFIELDS](EXT.Cornfields.md)
-  * [EXT. FARMLAND ROAD](EXT.FarmlandRoad.md)
   * [EXT. HOOPER HOUSE - ALI'S WINDOW](EXT.HooperHouse.AliWindow.md)
   * [EXT. HOOPER HOUSE - BACKYARD](EXT.HooperHouse.Backyard.md)
   * [EXT. HOOPER HOUSE - FRONT YARD/DRIVEWAY](EXT.HooperHouse.FrontYard.md)
   * [EXT. HOOPER HOUSE - PORCH](EXT.HooperHouse.Porch.md)
-  * [EXT. NEIGHBORHOOD](EXT.Neighborhood.md)
-  * [EXT. ROAD](EXT.Road.md)
-  * [EXT. WOODS](EXT.Woods.md)
   * [INT. ALI'S CAR](INT.AliCar.md)
-  * [INT. BOB'S CAR](INT.BobCar.md)
-  * [INT. BURKSON HOUSE - KITCHEN](INT.BurksonHouse.Kitchen.md)
-  * [INT. BURKSON HOUSE - TOM'S ROOM](INT.BurksonHouse.TomRoom.md)
-  * [INT. CLASSROOM](INT.Classroom.md)
   * [INT. CONCRETE ROOM](INT.ConcreteRoom.md)
   * [INT. DARK ROOM](INT.DarkRoom.md)
   * [INT. HOOPER HOUSE - ALI'S ROOM](INT.HooperHouse.AliRoom.md)
@@ -33,26 +23,18 @@
   * [INT. HOOPER HOUSE - FAMILY ROOM](INT.HooperHouse.FamilyRoom.md)
   * [INT. HOOPER HOUSE - HALLWAY](INT.HooperHouse.Hallway.md)
   * [INT. HOOPER HOUSE - KITCHEN](INT.HooperHouse.Kitchen.md)
-  * [INT. HOOPER HOUSE - NICK'S BATHROOM](INT.HooperHouse.NickBathroom.md)
   * [INT. HOOPER HOUSE - NICK'S ROOM](INT.HooperHouse.NickRoom.md)
   * [INT. HOOPER HOUSE - PARENTS' ROOM](INT.HooperHouse.ParentsRoom.md)
-  * [INT. HOSPITAL](INT.Hospital.md)
   * [INT. POLICE CAR](INT.PoliceCar.md)
 
 [Characters]()
 
    * [Ali Hooper](ali.md)
-   * [Aunt Shannon](auntshannon.md)
-   * [Bob](bob.md)
    * [Cult Members](cultmembers.md)
-   * [Doctor McDermott](doctormcdermott.md)
    * [Jason](jason.md)
-   * [Jill (VO)](jill.md)
-   * [Mom (VO)](mom.md)
    * [Nick Hooper](nick.md)
    * [Pizza Man](pizzaman.md)
    * [Police Officer](policeofficer.md)
-   * [Teenagers (FLASHBACK)](teenagers.md)
    * [Thomas](thomas.md)
 
 
@@ -78,7 +60,6 @@
   * [Unshot Scenes](unshot.md)
   * [Cut Shots](cut.md)
   * [Dual (Two-Camera) Shots](dual.md)
-  * [Shots with VFX](vfx.md)
 
 [Scene](scene.md)
 

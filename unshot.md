@@ -56,7 +56,7 @@ Underwater Scenes/Shots:
 * [019C](019C.md)
 * [019D](019D.md)
 * [064F](064F.md)
-* [064J](064J.md) [There is another shot by this name. Apologizes; not the same shot.]
+* [064J](064J.md) [There is another shot by this name. Apologizes: [064J/064L](064J-064L.md).]
 * [065 - EXT. BACKYARD](065-EXT.Backyard.md)
 
 Ali in Nick's Bathroom:

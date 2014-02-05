@@ -31,7 +31,6 @@
 ![bloodyhands1][]
 ![bloodyhands2][]
 
-* [088 - INT. NICK'S ROOM](088-INT.NicksRoom--CUT--.md)
 * [091 - INT. NICK'S ROOM](091-INT.NicksRoom--COMBINEDW086--.md)
 * [093 - INT. NICK'S ROOM](093-INT.NicksRoom--COMBINEDW086--.md)
 * [096 - INT. NICK'S ROOM](096-INT.NicksRoom--COMBINEDW086--.md)
@@ -45,14 +44,12 @@
 * [108 - INT. ALI'S CAR](108-INT.AlisCar.md)
 * [109 - EXT. DRIVEWAY](109-EXT.Driveway.md)
 * [111 - EXT. DRIVEWAY](111-EXT.Driveway--CONTD--.md)
-* [113 - EXT. BASKETBALL COURT --FLASHBACK--](113-EXT.BasketballCourt-FLASHBACK.md)
 * [114 - INT. FAMILY ROOM](114-INT.FamilyRoom.md)
 
 **SCENE 114: Jason wakes up bound and gagged.**
 **SCENE 114: Jason is tortured by Thomas.**
 
 
-* [119 - EXT. BASKETBALL COURT --FLASHBACK--](119-EXT.BasketballCourt-FLASHBACK.md)
 * [121 - INT. FAMILY ROOM](121-INT.FamilyRoom.md)
 * [122 - EXT. DRIVEWAY](122-EXT.Driveway.md)
 * [129 - INT. NICK'S ROOM](129-INT.NicksRoom--FLASHBACK--.md)

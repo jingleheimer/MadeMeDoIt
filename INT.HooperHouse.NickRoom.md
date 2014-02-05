@@ -7,7 +7,6 @@
 * [057 - INT. NICK'S ROOM](057-INT.NicksRoom.md)
 * [080 - INT. NICK'S ROOM](080-INT.NicksRoom.md)
 * [086 - INT. NICK'S ROOM](086-INT.NicksRoom--088-091-093-096--.md)
-* [088 - INT. NICK'S ROOM](088-INT.NicksRoom--CUT--.md)
 * [091 - INT. NICK'S ROOM](091-INT.NicksRoom--COMBINEDW086--.md)
 * [093 - INT. NICK'S ROOM](093-INT.NicksRoom--COMBINEDW086--.md)
 * [096 - INT. NICK'S ROOM](096-INT.NicksRoom--COMBINEDW086--.md)

@@ -1,8 +1,5 @@
 **SCENE 4: First scene with Ali.**
 
-* [004 - EXT. ROAD - AFTERNOON](004-EXT.Road-Afternoon.md)
-* [006 - EXT. CORNFIELDS - AFTERNOON](006-EXT.Cornfields-Afternoon.md)
-* [010 - EXT. DRIVEWAY - DUSK](010-EXT.Driveway-Dusk--DEFERRED--.md)
 * [011 - INT. FAMILY ROOM](011-INT.FamilyRoom.md)
 
 **AFTER SCENE 11: Ali changes into a swimsuit.**
@@ -55,20 +52,13 @@
 * [078 - EXT. FRONT PORCH](078-EXT.Porch.md)
 * [079 - INT. HALLWAY](079-INT.Hallway.md)
 * [080 - INT. NICK'S ROOM](080-INT.NicksRoom.md)
-* [081 - INT. NICK'S BATHROOM](081-INT.NicksBathroom.md)
-* [082 - INT. CLASSROOM --FLASHBACK--](082-INT.Classroom-FLASHBACK--CUT--.md)
-* [083 - INT. NICK'S BATHROOM](083-INT.NicksBathroom--CUT--.md)
-* [084 - INT. CLASSROOM --FLASHBACK--](084-INT.Classroom-FLASHBACK--CUT--.md)
-* [085 - INT. NICK'S BATHROOM](085-INT.NicksBathroom--CUT--.md)
 
 ![nickshirt][]
 **DURING SCENE 81-85: Ali changes into Nick's shirt and medal.**
 
 * [086 - INT. NICK'S ROOM](086-INT.NicksRoom--088-091-093-096--.md)
-* [088 - INT. NICK'S ROOM](088-INT.NicksRoom--CUT--.md)
 * [091 - INT. NICK'S ROOM](091-INT.NicksRoom--COMBINEDW086--.md)
 * [093 - INT. NICK'S ROOM](093-INT.NicksRoom--COMBINEDW086--.md)
-* [094 - INT. CLASSROOM --FLASHBACK--](094-INT.Classroom-FLASHBACK.md)
 * [096 - INT. NICK'S ROOM](096-INT.NicksRoom--COMBINEDW086--.md)
 * [097 - INT. NICK'S ROOM](097-INT.NicksRoom-LATER.md)
 * [098 - INT. HALLWAY](098-INT.Hallway.md)
@@ -81,18 +71,11 @@
 * [107 - EXT. DRIVEWAY](107-EXT.Driveway.md)
 * [108 - INT. ALI'S CAR](108-INT.AlisCar.md)
 * [109 - EXT. DRIVEWAY](109-EXT.Driveway.md)
-* [110 - INT. CLASSROOM --FLASHBACK--](110-INT.Classroom-FLASHBACK.md)
 * [111 - EXT. DRIVEWAY](111-EXT.Driveway--CONTD--.md)
-* [112 - INT. CLASSROOM --FLASHBACK--](112-INT.Classroom-FLASHBACK.md)
-* [113 - EXT. BASKETBALL COURT --FLASHBACK--](113-EXT.BasketballCourt-FLASHBACK.md)
 
 **Ali is bound and gagged.**
 
 * [114 - INT. FAMILY ROOM](114-INT.FamilyRoom.md)
-* [115 - INT. CLASSROOM --FLASHBACK--](115-INT.Classroom-FLASHBACK.md)
-* [118 - INT. CLASSROOM --FLASHBACK--](118-INT.Classroom-FLASHBACK.md)
-* [119 - EXT. BASKETBALL COURT --FLASHBACK--](119-EXT.BasketballCourt-FLASHBACK.md)
-* [120 - EXT. BASKETBALL COURT --FLASHBACK--](120-EXT.BasketballCourt-FLASHBACK.md)
 * [121 - INT. FAMILY ROOM](121-INT.FamilyRoom.md)
 * [122 - EXT. DRIVEWAY](122-EXT.Driveway.md)
 * [125 - EXT. DRIVEWAY](125-EXT.Driveway.md)

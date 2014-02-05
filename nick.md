@@ -1,9 +1,6 @@
 **First scene with Nick (shoes on).**
 
 * [007 - INT. NICK'S ROOM - EVENING](007-INT.NicksRoom-Evening.md)
-* [008 - EXT. NEIGHBORHOOD - EVENING](008-EXT.Neighborhood-Evening.md)
-* [009 - EXT. NEIGHBORHOOD - EVENING](009-EXT.Neighborhood-Evening.md)
-* [010 - EXT. DRIVEWAY - DUSK](010-EXT.Driveway-Dusk--DEFERRED--.md)
 * [011 - INT. FAMILY ROOM](011-INT.FamilyRoom.md)
 * [018 - INT. FAMILY ROOM](018-INT.FamilyRoom.md)
 * [020 - INT. FAMILY ROOM](020-INT.FamilyRoom.md)

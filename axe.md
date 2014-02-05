@@ -1,4 +1,3 @@
-* [016 - EXT. ROAD](016-EXT.Road.md)
 * [051 - INT. FAMILY ROOM](051-INT.FamilyRoom.md)
 * [062 - INT. KITCHEN](062-INT.Kitchen.md)
 * [072 - INT. PARENT'S ROOM](072-INT.ParentsRoom.md)

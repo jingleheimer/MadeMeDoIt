@@ -1,5 +1,0 @@
-* [012 - EXT. ROAD](012-EXT.Road.md)
-* [013 - INT. BOB'S CAR - LATER](013-INT.BobsCar-TIMESKIP.md)
-* [014 - EXT. ROAD](014-EXT.Road.md)
-* [015 - INT. BOB'S CAR](015-INT.BobsCar.md)
-* [016 - EXT. ROAD](016-EXT.Road.md)
